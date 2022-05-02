@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63151730744",
+    "project_id": "bloc-tuto",
+    "storage_bucket": "bloc-tuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63151730744:android:f3df9ac0b4e9ccc72736cd",
+        "android_client_info": {
+          "package_name": "com.example.bloc_tuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63151730744-5i7act8asg6hoo8v1edg8ttmrgrhtmfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5ItJsE4nmXNl8uRA4qldqliA3hw2yDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63151730744-5i7act8asg6hoo8v1edg8ttmrgrhtmfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
