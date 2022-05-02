@@ -1,6 +1,6 @@
 # bloc_tuto
 
-A new Flutter project.
+A tutorial of new bloc version 8
 
 ## Getting Started
 
